@@ -1,1 +1,1 @@
-Machine Learning projects of Udacity
+Machine Learning projects of Udacity.
